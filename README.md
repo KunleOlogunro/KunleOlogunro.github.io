@@ -1,10 +1,12 @@
 ## Welcome to my Fundraising Page and Welcome to my Story
 
+### By donating N5000 to 9906168052 Providus Bank, you're equipping one more story teller of Nigeria's dreams, hopes, and realities; your Nigerian story, with [this laptop](https://www.jumia.com.ng/lenovo-thinkpad-t420-intel-corei5-8gb-ddr3-ram-500gb-hdd-14-inches-hd-screen-windows-10-pro-x64bit-webcam-wlan-42210193.html)
+
 ![Image](https://user-images.githubusercontent.com/56092000/66084902-a7bbb680-e567-11e9-8003-27aa7009cb27.png)
 
 Since I began to write, I have always used a pen and a paper, or my mobile phone. In my four years of university, I used my phone for writing and typing related exercises, and for my final year project, a friend lent me his laptop.
 
-Here're pieces I've written with my phone:
+Here're pieces I wrote:
 
 ### [Imole, 1st position flash fiction category](https://kreativediadem.com/imole-by-olakunle-ologunro-1st-position-flash-fiction-category/)
 Here you are, on a mat in your mother’s small, dark living room, wet with your own sweat, burning with an interminable fever...
