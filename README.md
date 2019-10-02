@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to my Fundraising Page
 
 ![Image](https://user-images.githubusercontent.com/56092000/66083009-527da600-e563-11e9-813a-d75f5923097a.png)
 
 This is a change [editor on GitHub](https://github.com/KunleOlogunro/KunleOlogunro.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+![Image](https://user-images.githubusercontent.com/56092000/66083390-172fa700-e564-11e9-9237-4da2b3c81ba8.png)
 
 ### Markdown
 
