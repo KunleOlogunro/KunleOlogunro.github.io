@@ -1,6 +1,6 @@
 ## Welcome to my Fundraising Page and Welcome to my Story
 
-![Image](https://user-images.githubusercontent.com/56092000/66083672-b81e6200-e564-11e9-9762-b20ba083688b.png)
+![Image](https://user-images.githubusercontent.com/56092000/66084902-a7bbb680-e567-11e9-8003-27aa7009cb27.png)
 
 Since I began to write, I have always used a pen and a paper, or my mobile phone. In my four years of university, I used my phone for writing and typing related exercises, and for my final year project, a friend lent me his laptop. 
 
