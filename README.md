@@ -2,7 +2,19 @@
 
 ![Image](https://user-images.githubusercontent.com/56092000/66084902-a7bbb680-e567-11e9-8003-27aa7009cb27.png)
 
-Since I began to write, I have always used a pen and a paper, or my mobile phone. In my four years of university, I used my phone for writing and typing related exercises, and for my final year project, a friend lent me his laptop. 
+Since I began to write, I have always used a pen and a paper, or my mobile phone. In my four years of university, I used my phone for writing and typing related exercises, and for my final year project, a friend lent me his laptop.
+
+Here're pieces I've written with my phone:
+
+### [Imole, 1st position flash fiction category](https://kreativediadem.com/imole-by-olakunle-ologunro-1st-position-flash-fiction-category/)
+Here you are, on a mat in your mother’s small, dark living room, wet with your own sweat, burning with an interminable fever...
+
+### [A Nonrequired Guide to Writing Love Stories, published on brittlepaper](https://brittlepaper.com/2018/05/nonrequired-guide-writing-love-stories-olakunle-ologunro-fiction/)
+FIRST, YOU NEED to have a girl...
+
+### [Solution, published on Agbowo](https://agbowo.org/solution-olakunle-ologunro/)
+If we must blame anything, then it has to be the recession, because, before it, Ponle lived a not-full, not-hungry life, just like everyone else...
+
 
 I have just graduated, and I intend to take on more writing exercises. I also hope to go into translation, content creation and management, and developing my skill set by learning how to use applications like Canva, Mail Chimp, Google Docs, Microsoft Word tools, among others. In the next year too, I hope to have the first draft of my novel ready.
 
