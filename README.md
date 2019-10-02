@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![Image](https://user-images.githubusercontent.com/56092000/66081099-4b549900-e55f-11e9-89c5-9c298b2e0625.png)
+![Image](https://user-images.githubusercontent.com/56092000/66083009-527da600-e563-11e9-813a-d75f5923097a.png)
 
 This is a change [editor on GitHub](https://github.com/KunleOlogunro/KunleOlogunro.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
