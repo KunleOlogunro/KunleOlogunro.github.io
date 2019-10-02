@@ -2,7 +2,7 @@
 
 ![Image](https://user-images.githubusercontent.com/56092000/66081099-4b549900-e55f-11e9-89c5-9c298b2e0625.png)
 
-You can use the [editor on GitHub](https://github.com/KunleOlogunro/KunleOlogunro.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a change [editor on GitHub](https://github.com/KunleOlogunro/KunleOlogunro.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
