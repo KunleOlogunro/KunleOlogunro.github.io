@@ -6,7 +6,7 @@ This is a change [editor on GitHub](https://github.com/KunleOlogunro/KunleOlogun
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![Image](https://user-images.githubusercontent.com/56092000/66083390-172fa700-e564-11e9-9237-4da2b3c81ba8.png)
+![Image](https://user-images.githubusercontent.com/56092000/66083672-b81e6200-e564-11e9-9762-b20ba083688b.png)
 
 ### Markdown
 
