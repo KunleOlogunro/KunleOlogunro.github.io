@@ -20,8 +20,11 @@ If we must blame anything, then it has to be the recession, because, before it, 
 
 I have just graduated, and I intend to take on more writing exercises. I also hope to go into translation, content creation and management, and developing my skill set by learning how to use applications like Canva, Mail Chimp, Google Docs, Microsoft Word tools, among others. In the next year too, I hope to have the first draft of my novel ready.
 
-Having a laptop would really ease my workload and help me achieve my goals faster. Your donations will really go a long way.
+Having a laptop would really boost my work and help me tell your very own story; our collective Nigerian story.
 
-Thank you for reading this, and thank you for helping out.
+### So please donate N5000 to 9906168052 Providus Bank. You'll be contributing towards purchasing [this laptop](https://www.jumia.com.ng/lenovo-thinkpad-t420-intel-corei5-8gb-ddr3-ram-500gb-hdd-14-inches-hd-screen-windows-10-pro-x64bit-webcam-wlan-42210193.html)
 
 ![Image](https://user-images.githubusercontent.com/56092000/66083009-527da600-e563-11e9-813a-d75f5923097a.png)
+
+Thank you for reading this, and thank you for donating.
+
