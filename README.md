@@ -1,41 +1,13 @@
-## Welcome to my Fundraising Page
-
-![Image](https://user-images.githubusercontent.com/56092000/66083009-527da600-e563-11e9-813a-d75f5923097a.png)
-
-This is a change [editor on GitHub](https://github.com/KunleOlogunro/KunleOlogunro.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to my Fundraising Page and Welcome to my Story
 
 ![Image](https://user-images.githubusercontent.com/56092000/66083672-b81e6200-e564-11e9-9762-b20ba083688b.png)
 
-### Markdown
+Since I began to write, I have always used a pen and a paper, or my mobile phone. In my four years of university, I used my phone for writing and typing related exercises, and for my final year project, a friend lent me his laptop. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have just graduated, and I intend to take on more writing exercises. I also hope to go into translation, content creation and management, and developing my skill set by learning how to use applications like Canva, Mail Chimp, Google Docs, Microsoft Word tools, among others. In the next year too, I hope to have the first draft of my novel ready.
 
-```markdown
-Syntax highlighted code block
+Having a laptop would really ease my workload and help me achieve my goals faster. Your donations will really go a long way.
 
-# Header 1
-## Header 2
-### Header 3
+Thank you for reading this, and thank you for helping out.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KunleOlogunro/KunleOlogunro.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image](https://user-images.githubusercontent.com/56092000/66083009-527da600-e563-11e9-813a-d75f5923097a.png)
