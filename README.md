@@ -1,6 +1,6 @@
 ## Welcome to my Fundraising Page and Welcome to my Story
 
-### By donating N5000 to 9906168052 Providus Bank, you're equipping one more story teller of Nigeria's dreams, hopes, and realities; your Nigerian story, with [this laptop](https://www.jumia.com.ng/lenovo-thinkpad-t420-intel-corei5-8gb-ddr3-ram-500gb-hdd-14-inches-hd-screen-windows-10-pro-x64bit-webcam-wlan-42210193.html)
+### By donating N5000 to 9906168052 Providus Bank, you're equipping one more story teller of Nigeria's dreams, hopes, and realities; your Nigerian story, with [this laptop](https://www.amazon.com/Lenovo-Thinkpad-T420-Windows-Professional/dp/B00W4AMWCI)
 
 ![Image](https://user-images.githubusercontent.com/56092000/66084902-a7bbb680-e567-11e9-8003-27aa7009cb27.png)
 
