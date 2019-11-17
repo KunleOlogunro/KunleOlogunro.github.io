@@ -1,11 +1,12 @@
-## Welcome to our Fundraising Page and welcome to Kunle's Story, but first:
+## Welcome to Kunle's fundraising page and welcome to his story, but first:
 
 ### So far 5 of you have generously donated a total of N36850. That's amazing and we're so grateful! It means we have just 2/3rds of the way to go. 
-### Help us crush this. By donating N5000 to 9906168052 Providus Bank, you'll take us miles closer to equipping one more story teller of Nigeria's dreams, hopes, and realities; your Nigerian story, with [this laptop](https://www.amazon.com/Lenovo-Thinkpad-T420-Windows-Professional/dp/B00W4AMWCI)
+### Help us crush this. By donating N5000 to 9906168052 Providus Bank or £15 to Sort: 207463 Account: 93043843 Barclays Bank, you'll be taking us miles closer to equipping one more story teller of Nigeria's dreams, hopes, and realities; your Nigerian story, with [this laptop](https://www.amazon.com/Lenovo-Thinkpad-T420-Windows-Professional/dp/B00W4AMWCI)
+#### -- Nnadozie
 
 ![Image](https://user-images.githubusercontent.com/56092000/66084902-a7bbb680-e567-11e9-8003-27aa7009cb27.png)
 
-OLAKUNLE OLOGUNRO, BEST GRADUATING STUDENT, DEPARTMENT OF ENGLISH, UNIVERSITY OF ILORIN.
+#### OLAKUNLE OLOGUNRO, BEST GRADUATING STUDENT, DEPARTMENT OF ENGLISH, UNIVERSITY OF ILORIN.
 
 A Message from Kunle
 
