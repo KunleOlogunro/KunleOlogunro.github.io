@@ -8,7 +8,7 @@
 
 #### OLAKUNLE OLOGUNRO, BEST GRADUATING STUDENT, DEPARTMENT OF ENGLISH, UNIVERSITY OF ILORIN.
 
-A Message from him
+A Message from him:
 
 Since I began to write, I have always used a pen and a paper, or my mobile phone. In my four years of university, I used my phone for writing and typing related exercises, and for my final year project, a friend lent me his laptop. 
 
