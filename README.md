@@ -4,9 +4,10 @@
 ### Help us crush this. By donating N5000 to 9906168052 Providus Bank or £15 to Sort: 207463 Account: 93043843 Barclays Bank, you'll be taking us miles closer to equipping one more story teller of Nigeria's dreams, hopes, and realities; your Nigerian story, with [this laptop](https://www.amazon.com/Lenovo-Thinkpad-T420-Windows-Professional/dp/B00W4AMWCI).
 #### -- Nnadozie
 
+
 ![Image](https://user-images.githubusercontent.com/56092000/66084902-a7bbb680-e567-11e9-8003-27aa7009cb27.png)
 
-#### OLAKUNLE OLOGUNRO, BEST GRADUATING STUDENT, DEPARTMENT OF ENGLISH, UNIVERSITY OF ILORIN.
+#### OLAKUNLE OLOGUNRO, BEST GRADUATING STUDENT, DEPARTMENT OF ENGLISH, UNIVERSITY OF ILORIN, WITH AUTHOR CHIMAMANDA NGOZI ADICHIE.
 
 A Message from him:
 
