@@ -28,7 +28,7 @@ I have just graduated, and I intend to take on more writing exercises. I also ho
 
 Having a laptop would really boost my work and help me tell your very own story; our collective Nigerian story.
 
-### So please donate N5000 to 9906168052 Providus Bank. You'll be contributing towards purchasing [this laptop](https://www.jumia.com.ng/lenovo-thinkpad-t420-intel-corei5-8gb-ddr3-ram-500gb-hdd-14-inches-hd-screen-windows-10-pro-x64bit-webcam-wlan-42210193.html)
+### So please donate N5000 to 9906168052 Providus Bank. You'll be contributing towards purchasing [this laptop](https://www.amazon.com/Lenovo-Thinkpad-T420-Windows-Professional/dp/B00W4AMWCI)
 
 ![Image](https://user-images.githubusercontent.com/56092000/66083009-527da600-e563-11e9-813a-d75f5923097a.png)
 
